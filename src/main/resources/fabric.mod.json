@@ -1,0 +1,18 @@
+{
+    "schemaVersion": 1,
+    "id": "npe_soundsystem",
+    "version": "${version}",
+    "name": "NPE_SoundSystem",
+    "description": "",
+    "authors": [
+        "ZekerZhayard"
+    ],
+    "contact": {},
+    "license": "All-Rights-Reserved",
+    "environment": "*",
+    "entrypoints": {},
+    "mixins": [
+        "npe_soundsystem.mixins.json"
+    ],
+    "depends": {}
+}
